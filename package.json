@@ -1,0 +1,16 @@
+{
+  "name": "autoyoutubeuplaoder",
+  "version": "1.0.0",
+  "description": "Program to upload videos on youtube automatically as soon as it detects them in a specific folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^7.0.2",
+    "googleapis": "^67.1.0"
+  }
+}
