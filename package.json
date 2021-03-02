@@ -1,5 +1,5 @@
 {
-  "name": "autoyoutubeuplaoder",
+  "name": "autoyoutubeuploader",
   "version": "1.0.0",
   "description": "Program to upload videos on youtube automatically as soon as it detects them in a specific folder.",
   "main": "index.js",
